@@ -9,13 +9,13 @@
 
 <!-- Animated Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Smart+Contract+Developer;Blockchain+Futurist;Full+Stack+Engineer;Building+LockIn+App" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=440&lines= Mobile & Web Developer;Smart+Contract+Developer;Blockchain;Futurist;Building+LockIn+App" />
 </p>
 
 ---
 
 ### Hi 👋, I'm Goodness Iyamah  
-** Mobile & Web Developer Smart Contract Engineer | Blockchain | Futurist | **
+ Mobile & Web App Developer Smart Contract Engineer | Blockchain | Futurist 
 
 Focused on building tools that help people grow, trade, and connect with trust and proof.
 
@@ -35,9 +35,7 @@ Focused on building tools that help people grow, trade, and connect with trust a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React Native (Expo)" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+ 
 </p>
 
 ---
@@ -46,9 +44,6 @@ Focused on building tools that help people grow, trade, and connect with trust a
 - **Frontend:** React.js, React Native (Expo)
 - **Backend:** Node.js, Express
 - **Blockchain:** Solidity, Hardhat, Ethers.js
-- **Database:** Firebase
-- **Version Control:** Git, GitHub
-- **Design & Tools:** Figma, VS Code, Postman
 
 ---
 
