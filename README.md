@@ -89,13 +89,6 @@
 
 
 
-### 🏆 Achievements
-- Built and managed multiple **Applications**
-- Built and deployed **EVM Smart Contracts**
-- Created **Web3 + AI-integrated dApps**
-- Contributed to **open-source blockchain projects**
-
-
 ---
 
 ### 🌐 Connect With Me
