@@ -48,8 +48,8 @@ Focused on building tools that help people grow, trade, and connect with trust a
   <!-- React.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React.js" />
   
-  <!-- React Native (Expo) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React Native (Expo)" />
+  <!-- React Native (Expo) - slightly tinted version -->
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" width="40" title="React Native (Expo)" />
   
   <!-- Node.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
@@ -57,11 +57,11 @@ Focused on building tools that help people grow, trade, and connect with trust a
   <!-- Solidity -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" title="Solidity" />
   
-  <!-- Ethers.js -->
-  <img src="https://raw.githubusercontent.com/ethers-io/ethers.js/master/docs/ethers.svg" width="40" title="Ethers.js" />
+  <!-- Ethers.js (fixed SVG path) -->
+  <img src="https://raw.githubusercontent.com/ethers-io/ethers.js/main/docs/images/logo.svg" width="40" title="Ethers.js" />
   
   <!-- Wagmi -->
-  <img src="https://avatars.githubusercontent.com/u/108468352?s=200&v=4" width="40" title="Wagmi" />
+  <img src="https://raw.githubusercontent.com/wagmi-dev/.github/main/profile/logo.png" width="40" title="Wagmi" />
   
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
