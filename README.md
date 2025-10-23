@@ -57,8 +57,8 @@ Focused on building tools that help people grow, trade, and connect with trust a
   <!-- Solidity -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" title="Solidity" />
   
-  <!-- Ethers.js -->
-  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=029" width="40" title="Ethers.js" />
+  <!-- Ethers.js (Base64 inline image) -->
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAABaUlEQVRoge3ZPUoDQRiG4YeUI4sW9IK4iqA3iQvQEMR2EhsbQxHZD8R2chO4jRoxmQzGy0YkLE5AX3h4y06eHuf9nZ2b+5ldV5yL9QBxjngzPIqRkQqgRkgXkLUlyEYJ0vE0gPaAZiZhiZwrHz0lQz+J+lwQHcAYVHoChZo3ClMwQ4dRnxckbyJUZSydr5OHTl6sCJDjqDoKZWe4KU7hC0I3K3IjcjyA3oXk3dE3ifIRfkR0TeJOZ7iZkSRmjeFVCuFVJuFJGuFLKuFJGuFLKuFJGuFLKuFJGuFLKuFJGuFLKuFJGuFLKuFJGuFLKuFJGuFLKuFJGuFLKuFJGuFLKuFJGvFvAHMbG/cAdR4aO+kJ3j+NQ7zDJZ3Y+V9yMLT0G72Cr3s7kAAAAASUVORK5CYII=" width="40" title="Ethers.js" />
   
   <!-- Wagmi -->
   <img src="https://avatars.githubusercontent.com/u/108468352?s=200&v=4" width="40" title="Wagmi" />
@@ -66,6 +66,7 @@ Focused on building tools that help people grow, trade, and connect with trust a
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
 </p>
+
 
 ---
 
