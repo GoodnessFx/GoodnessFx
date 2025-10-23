@@ -29,7 +29,7 @@
 ### Hi 👋, I'm Goodness Iyamah  
  Mobile & Web App Developer Smart Contract Engineer | Blockchain | Futurist 
 
-Focused on building tools that help people grow, trade, and connect with trust and proof.
+
 
 ---
 
