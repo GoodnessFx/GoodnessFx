@@ -48,7 +48,7 @@ Focused on building tools that help people grow, trade, and connect with trust a
   <!-- React.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React.js" />
   
-  <!-- React Native (Expo) - slightly tinted version -->
+  <!-- React Native (Expo) -->
   <img src="https://img.icons8.com/color/48/000000/react-native.png" width="40" title="React Native (Expo)" />
   
   <!-- Node.js -->
@@ -57,11 +57,11 @@ Focused on building tools that help people grow, trade, and connect with trust a
   <!-- Solidity -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" title="Solidity" />
   
-  <!-- Ethers.js (fixed SVG path) -->
-  <img src="https://raw.githubusercontent.com/ethers-io/ethers.js/main/docs/images/logo.svg" width="40" title="Ethers.js" />
+  <!-- Ethers.js (mirror logo) -->
+  <img src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" width="40" title="Ethers.js" />
   
-  <!-- Wagmi -->
-  <img src="https://raw.githubusercontent.com/wagmi-dev/.github/main/profile/logo.png" width="40" title="Wagmi" />
+  <!-- Wagmi (mirror logo) -->
+  <img src="https://avatars.githubusercontent.com/u/108468352?s=200&v=4" width="40" title="Wagmi" />
   
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
@@ -87,18 +87,12 @@ Focused on building tools that help people grow, trade, and connect with trust a
 
 ---
 
-### 🐍 Contribution Graph
-<p align="center">
-  <img src="https://github.com/GoodnessFx/GoodnessFx/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
----
 
 ### 🏆 Achievements
 - Built and managed multiple **Applications**
-- Built and deployed multiple **EVM Smart Contracts**
+- Built and deployed **EVM Smart Contracts**
 - Created **Web3 + AI-integrated dApps**
-- Developed full-stack blockchain-powered apps
 - Contributed to **open-source blockchain projects**
 
 
