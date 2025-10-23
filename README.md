@@ -1,15 +1,27 @@
 <!-- Social Badges -->
-<p align="center">
-  <a href="https://linkedin.com/in/goodnessiyamah"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://twitter.com/GoodnessFx"><img src="https://img.shields.io/badge/Twitter-black?style=flat&logo=x" /></a>
-  <img src="https://komarev.com/ghpvc/?username=GoodnessFx&label=Profile+views&color=blue&style=flat" />
-</p>
+<div align="center" style="background-color:#0d1117; padding:18px; border-radius:12px; border:1px solid #222;">
+
+  <a href="https://linkedin.com/in/goodnessiyamah" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://twitter.com/GoodnessFx" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/GoodnessFx" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=GoodnessFx&label=Profile+Views&color=blue&style=for-the-badge" style="margin-left: 10px;" />
+
+</div>
 
 ---
 
 <!-- Animated Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=440&lines= Mobile & Web Developer;Smart+Contract+Developer;Blockchain;Futurist;Building+LockIn+App" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=440&lines= Mobile+Web+Developer;Smart+Contract+Developer;Blockchain;Futurist;Building+LockIn+App" />
 </p>
 
 ---
@@ -30,20 +42,33 @@ Focused on building tools that help people grow, trade, and connect with trust a
 
 ### 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+  
+  <!-- React.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React.js" />
+  
+  <!-- React Native (Expo) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React Native (Expo)" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" />
- 
+  
+  <!-- Node.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
+  
+  <!-- Solidity -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" title="Solidity" />
+  
+  <!-- Ethers.js -->
+  <img src="https://raw.githubusercontent.com/ethers-io/ethers.js/master/docs/ethers.svg" width="40" title="Ethers.js" />
+  
+  <!-- Wagmi -->
+  <img src="https://avatars.githubusercontent.com/u/108468352?s=200&v=4" width="40" title="Wagmi" />
+  
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
 </p>
 
 ---
 
-### 🧠 My Stack
-- **Frontend:** React.js, React Native (Expo)
-- **Backend:** Node.js, Express
-- **Blockchain:** Solidity, Hardhat, Ethers.js
 
 ---
 
@@ -80,11 +105,17 @@ Focused on building tools that help people grow, trade, and connect with trust a
 ---
 
 ### 🌐 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/goodnessiyamah" target="blank"><img src="https://img.shields.io/badge/-Goodness%20Iyamah-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/IGoodnessIyamah" target="blank"><img src="https://img.shields.io/badge/-@GoodnessFx-black?style=flat-square&logo=x&logoColor=white"/></a>
-  <a href="mailto:goodnessiyamah1@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Email%20Me-red?style=flat-square&logo=gmail&logoColor=white"/></a>
-</p>
+<div align="center" style="background-color:#0d1117; padding:16px; border-radius:12px;">
+  <a href="https://linkedin.com/in/goodnessiyamah" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-Goodness%20Iyamah-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/IGoodnessIyamah" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/X-@GoodnessFx-black?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="mailto:goodnessiyamah1@gmail.com" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Email-goodnessiyamah1%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
