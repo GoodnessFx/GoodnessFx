@@ -57,10 +57,10 @@ Focused on building tools that help people grow, trade, and connect with trust a
   <!-- Solidity -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" title="Solidity" />
   
-  <!-- Ethers.js (mirror logo) -->
-  <img src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" width="40" title="Ethers.js" />
+  <!-- Ethers.js -->
+  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=029" width="40" title="Ethers.js" />
   
-  <!-- Wagmi (mirror logo) -->
+  <!-- Wagmi -->
   <img src="https://avatars.githubusercontent.com/u/108468352?s=200&v=4" width="40" title="Wagmi" />
   
   <!-- Git -->
