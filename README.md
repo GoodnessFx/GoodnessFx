@@ -1,9 +1,7 @@
 <!-- Social Badges -->
 <div align="center" style="background-color:#0d1117; padding:18px; border-radius:12px; border:1px solid #222;">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/goodnessiyamah)
-
-
+<a href="https://linkedin.com/in/goodnessiyamah" target="_blank" style="margin: 0 10px;"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   <a href="https://x.com/IGoodnessIyamah" target="_blank" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
