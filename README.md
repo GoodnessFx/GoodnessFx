@@ -65,44 +65,10 @@
 ---
 
 
----
 
-### 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GoodnessFx&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GoodnessFx&theme=radical" />
-</p>
-
----
-
-### 🧩 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoodnessFx&layout=compact&theme=radical" />
-</p>
-
----
-
-
-
----
-
-### 🌐 Connect With Me
-<div align="center" style="background-color:#0d1117; padding:16px; border-radius:12px;">
-  <a href="https://linkedin.com/in/goodnessiyamah" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-Goodness%20Iyamah-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/IGoodnessIyamah" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/X-@GoodnessFx-black?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="mailto:goodnessiyamah1@gmail.com" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Email-goodnessiyamah1%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
-
----
 
 ### 💡 Quote
-> “To live life you need problems - Rick & Morty... yeah i solve the problems.”
+> “To live life you need problems - Rick & Morty... yeah i'll solve the problems.”
 
 ---
 
