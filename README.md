@@ -1,14 +1,14 @@
 <!-- Social Badges -->
 <div align="center" style="background-color:#0d1117; padding:18px; border-radius:12px; border:1px solid #222;">
 
-<a href="https://linkedin.com/in/goodnessiyamah" target="_blank" style="margin: 0 10px;"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-  <a href="https://x.com/IGoodnessIyamah" target="_blank" style="margin: 0 10px;">
-   
-   
+<a href="https://linkedin.com/in/goodnessiyamah" target="_blank" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-  </a>
+<a href="https://x.com/IGoodnessIyamah" target="_blank" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" />
+</a>
 
- 
 </div>
 
 
@@ -24,48 +24,29 @@
 ### Hi 👋, I'm Goodness Iyamah  
  Mobile & Web App Developer Smart Contract Engineer | Blockchain | Futurist 
 
-
-
 ---
 
 - 🔭 I’m currently working on **LockIn App**
 - 🌱 I’m learning **AI-powered Smart Contracts**
-- 💬 Ask me about **React Native, Growth, Solidity,  or Blockchain Architecture**
+- 💬 Ask me about **React Native, Growth, Solidity, or Blockchain Architecture**
 - ⚡ Fun fact: **I build what I wish existed**
 
 ---
 
 ### 🛠️ Languages and Tools
 <p align="center">
-  <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
-  
-  <!-- React.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React.js" />
-  
-  <!-- React Native (Expo) -->
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" width="40" title="React Native (Expo)" />
-  
-  <!-- Node.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
-  
-  <!-- Solidity -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" title="Solidity" />
-  
-  <!-- Ethers.js (Base64 inline image) -->
 
-  <!-- Wagmi -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React.js" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" width="40" title="React Native (Expo)" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" title="Solidity" />
   <img src="https://avatars.githubusercontent.com/u/108468352?s=200&v=4" width="40" title="Wagmi" />
-  
-  <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
+
 </p>
 
-
 ---
-
-
-
 
 ### 💡 Quote
 > “To live life you need problems - Rick & Morty... yeah i'll solve the problems.”
