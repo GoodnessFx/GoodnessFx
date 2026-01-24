@@ -22,7 +22,7 @@
 ---
 
 ### Hi 👋, I'm Goodness Iyamah  
- Mobile & Web App Developer Smart Contract Engineer | Blockchain | Futurist 
+Smart Contract Engineer | Mobile & Web App Developer | Blockchain | Futurist 
 
 ---
 
