@@ -22,8 +22,7 @@
 ---
 
 ### Hi 👋, I'm Goodness Iyamah  
-Smart Contract Engineer | Mobile & Web App Developer | Blockchain | Futurist 
-
+Smart Contract Engineer | EVM · Solidity · DeFi | Web3 Protocol Builder
 ---
 
 - 🔭 I’m currently working on **LockIn App**
@@ -49,9 +48,9 @@ Smart Contract Engineer | Mobile & Web App Developer | Blockchain | Futurist
 ---
 
 ### 💡 Quote
-> “To live life you need problems - Rick & Morty... yeah i'll solve the problems.”
+> “To live life you need problems - Rick & Morty.”
 
 ---
 
 ### 🚀 Signature
-Building a future where ease & trust is code
+Just Build and Win
