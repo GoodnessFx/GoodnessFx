@@ -16,7 +16,7 @@
 
 <!-- Animated Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=480&lines=Mobile+%26+Web+App+Developer;Smart+Contract+Developer;Blockchain+Engineer;Futurist;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=480&lines=Mobile+%26+Smart Contract Engineer; EVM · Solidity · DeFi;Web3 Protocol Builder;Full-Stack Web3 Developer;" alt="Typing SVG" />
 </p>
 
 ---
