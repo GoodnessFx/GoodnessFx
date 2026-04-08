@@ -23,7 +23,7 @@ Smart Contract Engineer | EVM | Solidity | DeFi | Web3 Protocol Builder
 ---
 
 - 🔭 I’m currently working on **LockIn App**
-- 🌱 I’m I'm currently writing Smart Contracts that move money, unlock systems, and make middlemen irrelevant - Vitalik would audit, CZ would ship, Anatoly would wish ran on Solana and Pavel build a chain around**
+- 🌱  I'm currently writing Smart Contracts that move money, erase middlemen, and make Vitalik nod, CZ ship, Anatoly a bit jealous, and Pavel build a chain around
 - 💬 Ask me about **React Native, Growth, Solidity, Blockchain Architecture or why the next billion users won't even know they're onchain**
 - ⚡ Fun fact: **I build what I wish existed**
 
@@ -48,4 +48,4 @@ Smart Contract Engineer | EVM | Solidity | DeFi | Web3 Protocol Builder
 ---
 
 ### 🚀 Signature
-Just Build and Win
+A moving man would meet his luck
