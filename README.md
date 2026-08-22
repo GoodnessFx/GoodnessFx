@@ -8,28 +8,28 @@
   </a>
 </p>
 
----
+<hr>
 
 <!-- Animated Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=560&lines=Smart+Contract+Auditor;Web3+Developer;Full-Stack+Developer;EVM+%7C+Solidity+%7C+Blockchain+Security" alt="Typing SVG" />
 </p>
 
----
+<hr>
 
 ### Hi 👋, I'm Goodness Iyamah
 Smart Contract Auditor | Web3 Developer | Full-Stack Developer | EVM & Blockchain Security
 
----
+<hr>
 
-- 🔭 Building **Growth Network** ([@GrowthNetworkhq](https://twitter.com/GrowthNetworkhq)) — a full-stack growth agency platform
-- 🎓 Building **ChainCodeCamp** ([@ChainCodeCamp](https://twitter.com/ChainCodeCamp)) — a smart contract security learning platform
-- 🥽 Exploring **Spatial Computing**
-- 🌱 Writing Smart Contracts that move money, erase middlemen, and make Vitalik nod, CZ ship, Anatoly a bit jealous, and Pavel build a chain around
-- 💬 Ask me about **Solidity, EVM security, React Native, Blockchain Architecture, or why the next billion users won't even know they're onchain**
-- ⚡ Fun fact: **I build what I wish existed**
+• 🔭 Building **Growth Network** ([@GrowthNetworkhq](https://twitter.com/GrowthNetworkhq)): a full-stack growth agency platform
+• 🎓 Building **ChainCodeCamp** ([@ChainCodeCamp](https://twitter.com/ChainCodeCamp)): a smart contract security learning platform
+• 🥽 Exploring **Spatial Computing**
+• 🌱 Writing Smart Contracts that move money, erase middlemen, and make Vitalik nod, CZ ship, Anatoly a bit jealous, and Pavel build a chain around
+• 💬 Ask me about **Solidity, EVM security, React Native, Blockchain Architecture, or why the next billion users won't even know they're onchain**
+• ⚡ Fun fact: **I build what I wish existed**
 
----
+<hr>
 
 ### 🛠️ Languages and Tools
 <p align="center">
@@ -42,7 +42,7 @@ Smart Contract Auditor | Web3 Developer | Full-Stack Developer | EVM & Blockchai
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
 </p>
 
----
+<hr>
 
 ### 🛡️ Security Tooling (Cyfrin Updraft)
 <p align="center">
@@ -53,13 +53,13 @@ Smart Contract Auditor | Web3 Developer | Full-Stack Developer | EVM & Blockchai
   <img src="https://img.shields.io/badge/Mythril-2E2E2E?style=for-the-badge" title="Mythril symbolic execution" />
 </p>
 
-- **Forge** — unit + fuzz testing, gas snapshots, scripting deploys
-- **Cast / Anvil** — chain interaction and local forking for exploit reproduction
-- **Slither & Aderyn** — static analysis for common vuln patterns
-- **Echidna** — invariant/fuzz testing for edge-case breakage
-- **Mythril** — symbolic execution for deeper bug hunting
+• **Forge**: unit + fuzz testing, gas snapshots, scripting deploys
+• **Cast / Anvil**: chain interaction and local forking for exploit reproduction
+• **Slither & Aderyn**: static analysis for common vuln patterns
+• **Echidna**: invariant/fuzz testing for edge-case breakage
+• **Mythril**: symbolic execution for deeper bug hunting
 
----
+<hr>
 
 ### 💡 Quote
-> "To live life you need problems - Rick & Morty."
+> "To live life you need problems, Rick & Morty."
