@@ -18,7 +18,7 @@
 ---
 
 ### Hi 👋, I'm Goodness Iyamah
-Smart Contract Auditor | Web3 Developer | Full-Stack Developer | EVM & Blockchain Security
+Smart Contract Developer (EVM) | Full-Stack Engineer 
 
 ---
 
